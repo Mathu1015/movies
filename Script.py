@@ -113,7 +113,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_caption}\n\n𝖩𝗈𝗂𝗇 ➥ 「@World4kMovie」</b>"""
+    FILE_CAPTION = """<b>{file_caption}\n\n𝖩𝗈𝗂𝗇 ➥ @World4kMovie</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
