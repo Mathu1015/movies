@@ -38,7 +38,7 @@ LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002347443470'))
 auth_channel = environ.get('AUTH_CHANNEL', '-1002064389813')
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1001581645367'))
 request_channel = environ.get('REQUEST_CHANNEL', '-1001813657151')
-MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1001731021939'))
+MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002556277223'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/LeyonRequeast') #Support group link ( make sure bot is admin )
 #---------------------------------------------------------------
 #---------------------------------------------------------------
