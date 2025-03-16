@@ -102,7 +102,7 @@ User - {}"""
     REQUEST_TXT = """<b>📜 ᴜꜱᴇʀ - {}
 📇 ɪᴅ - <code>{}</code>
 
-🎁 ʀᴇǫᴜᴇꜱᴛ ᴍꜱɢ - <code>{}</code></b>"""  
+🎁 ʀᴇǫᴜᴇꜱᴛ ᴍꜱɢ - {}"""  
    
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
@@ -113,7 +113,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{file_caption}\n\n𝖩𝗈𝗂𝗇 ➥ 「SUPPORT_CHAT」</b>"""
+    FILE_CAPTION = """<b>{file_caption}\n\n𝖩𝗈𝗂𝗇 ➥ 「@World4kMovie」</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
